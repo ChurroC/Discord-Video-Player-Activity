@@ -1,0 +1,13 @@
+{
+  "name": ".",
+  "scripts": {
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "hono": "^4.5.10"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "packageManager": "pnpm@9.1.0+sha1.217063ce3fcbf44f3051666f38b810f1ddefee4a"
+}
